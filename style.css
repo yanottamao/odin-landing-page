@@ -16,3 +16,9 @@ html {
 .footer {
   background-color: #1f2937;
 }
+
+.hero-head {
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: 900;
+}
