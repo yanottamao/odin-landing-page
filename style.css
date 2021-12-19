@@ -22,3 +22,8 @@ html {
   font-size: 48px;
   font-weight: 900;
 }
+
+.hero-paragraph {
+  color: #e6e7eb;
+  font-size: 18px;
+}
