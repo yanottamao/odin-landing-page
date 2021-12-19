@@ -46,3 +46,9 @@ button {
   background-color: #3882f6;
   color: #f9faf8;
 }
+
+.information-head {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+}
