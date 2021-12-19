@@ -41,3 +41,8 @@ a {
   color: #e6e7eb;
   font-size: 18px;
 }
+
+button {
+  background-color: #3882f6;
+  color: #f9faf8;
+}
