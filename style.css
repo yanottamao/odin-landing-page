@@ -61,4 +61,9 @@ button {
   font-weight: 500;
 }
 
+.hero-head {
+  font-size: 48px;
+  font-weight: 900;
+}
+
 /* end of logo and hero main text color */
