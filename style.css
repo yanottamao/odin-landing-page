@@ -165,4 +165,17 @@ button {
 }
 /* end of navbar */
 
+/* hero main */
+
+.hero-main-container {
+  padding: 100px 20px;
+
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+/* end of hero main */
+
 /* end of hero section */
