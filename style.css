@@ -56,4 +56,9 @@ button {
   color: #f9faf8;
 }
 
+.logo {
+  font-size: 24px;
+  font-weight: 500;
+}
+
 /* end of logo and hero main text color */
