@@ -117,4 +117,10 @@ button {
   border-radius: 5px;
 }
 
+.cta-head {
+  color: #f9faf8;
+  font-size: 24px;
+  font-weight: 700;
+}
+
 /* end of cta section */
