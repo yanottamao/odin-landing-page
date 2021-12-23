@@ -261,4 +261,10 @@ button {
   padding: 100px 0;
 }
 
+.quote-paragraph {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 790px;
+}
+
 /* end of quote section */
