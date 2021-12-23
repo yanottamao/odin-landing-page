@@ -109,3 +109,12 @@ button {
 }
 
 /* end of quote section */
+
+/* cta section */
+
+.cta-card-container {
+  background-color: #3882f6;
+  border-radius: 5px;
+}
+
+/* end of cta section */
