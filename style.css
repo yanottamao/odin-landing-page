@@ -284,4 +284,15 @@ button {
   padding: 100px 20px;
 }
 
+.cta-card-container {
+  padding: 20px;
+  min-height: 150px;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
 /* end of cta section */
