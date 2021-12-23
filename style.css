@@ -78,4 +78,9 @@ button {
   font-weight: 900;
 }
 
+.information-card-img {
+  border: 5px solid #3882f6;
+  border-radius: 10px;
+}
+
 /* end of information section */
