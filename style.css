@@ -191,6 +191,15 @@ button {
   margin: 5px 0;
 }
 
+.hero-img-container {
+  flex: 2 1 auto;
+
+  width: 550px;
+  height: 250px;
+
+  display: flex;
+}
+
 /* end of hero main */
 
 /* end of hero section */
