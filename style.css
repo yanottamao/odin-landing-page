@@ -18,3 +18,14 @@ a {
 li {
   list-style: none;
 }
+
+/* font and color properties */
+
+/* default properties */
+
+body {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+/* end of default properties */
