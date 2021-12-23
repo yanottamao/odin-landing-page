@@ -158,6 +158,11 @@ button {
   gap: 20px;
 }
 
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
 /* end of navbar */
 
 /* end of hero section */
