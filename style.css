@@ -48,3 +48,12 @@ button {
 }
 
 /* end of hero and footer properties */
+
+/* logo and hero main text color */
+
+.logo,
+.hero-head {
+  color: #f9faf8;
+}
+
+/* end of logo and hero main text color */
