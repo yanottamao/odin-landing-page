@@ -128,3 +128,18 @@ button {
 }
 
 /* end of cta section */
+
+/* end of font and color properties */
+
+/* container sizing */
+
+.hero-container,
+.information-container,
+.quote-container,
+.cta-container,
+.footer-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* end of container sizing */
