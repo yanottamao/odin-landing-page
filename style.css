@@ -67,3 +67,15 @@ button {
 }
 
 /* end of logo and hero main text color */
+
+/* information section */
+
+/* information head */
+
+.information-head {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+}
+
+/* end of information section */
