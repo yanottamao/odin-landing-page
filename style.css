@@ -39,3 +39,12 @@ button {
 }
 
 /* end of default properties */
+
+/* hero and footer properties */
+
+.hero-section,
+.footer-section {
+  background-color: #1f2937;
+}
+
+/* end of hero and footer properties */
