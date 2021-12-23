@@ -236,4 +236,14 @@ button {
   gap: 50px;
 }
 
+.information-card-item {
+  height: 250px;
+  width: 170px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
 /* end of information section */
