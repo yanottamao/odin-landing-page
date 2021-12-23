@@ -200,6 +200,18 @@ button {
   display: flex;
 }
 
+.hero-img {
+  flex: 1 1 auto;
+
+  background-color: #505050;
+  padding: 20px;
+  text-align: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* end of hero main */
 
 /* end of hero section */
