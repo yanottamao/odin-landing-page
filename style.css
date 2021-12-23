@@ -246,4 +246,11 @@ button {
   align-items: center;
 }
 
+.information-card-img {
+  flex: 0 1 auto;
+
+  height: 150px;
+  width: 150px;
+}
+
 /* end of information section */
