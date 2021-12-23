@@ -226,4 +226,14 @@ button {
   padding: 20px;
 }
 
+.information-cards-container {
+  padding: 20px;
+  padding-bottom: 100px;
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
 /* end of information section */
