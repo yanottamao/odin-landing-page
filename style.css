@@ -176,6 +176,17 @@ button {
   gap: 20px;
 }
 
+.hero-texts-container {
+  flex: 1 1 auto;
+
+  width: 450px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
 /* end of hero main */
 
 /* end of hero section */
