@@ -102,4 +102,10 @@ button {
   font-weight: 300;
 }
 
+.quote-person {
+  color: #1f2937;
+  font-size: 24px;
+  font-weight: 700;
+}
+
 /* end of quote section */
